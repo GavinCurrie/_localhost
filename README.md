@@ -1,5 +1,6 @@
 # _localhost
-My first tentative attempt at creating a local website using HTML, CSS, JavaScript, jQuery, Php perhaps...
+My first tentative attempt at creating a local website and a blog from scratch using HTML, CSS, MySQL, JavaScript, jQuery, 
+Php perhaps...
 
 Prep:
 Have got some files good to go, but having problems with some pages.
